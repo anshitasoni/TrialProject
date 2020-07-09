@@ -1,3 +1,8 @@
 This is my welcome web page
+<<<<<<< HEAD
 saved after commit 1 chnages made now
 saved after commit 2 abg
+=======
+saved after commit 1 user 2 made
+saved after commit 2 abg
+>>>>>>> 8a2cd32be0630c7f97fd6b711f592b70ab565d2e
